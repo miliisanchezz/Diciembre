@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 48717159
 
 Los 4 estados de archivo son:
@@ -5,3 +6,8 @@ modified
 unmodified
 staged
 untracked
+=======
+48717159ñlñ
+kioj
+koipjip
+>>>>>>> d42756906bb5b0b2d311ff6c193931b1639dfa0c
