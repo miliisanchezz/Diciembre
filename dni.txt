@@ -1,1 +1,7 @@
 48717159
+
+Los 4 estados de archivo son:
+modified
+unmodified
+staged
+untracked
